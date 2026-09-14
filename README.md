@@ -1,5 +1,5 @@
 # HireLens
-   
+    
 HireLens is a job-fit web app that compares a candidate's resume and short profile against a job description and returns:
 
 - a match percentage
