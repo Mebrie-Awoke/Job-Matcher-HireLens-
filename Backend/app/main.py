@@ -35,7 +35,7 @@ STOP_WORDS = {
 class MatchingRequest(BaseModel):
     resume_text: str
     about_me: str = ''
-    job_description: str
+    job_description: str 
 
 
 class Recommendation(BaseModel):
