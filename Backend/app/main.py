@@ -3,7 +3,7 @@ from collections import Counter
 from typing import List   
   
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.cors import CORSMiddleware 
 from pydantic import BaseModel
 
 app = FastAPI(title='HireLens API', version='1.0.0') 
