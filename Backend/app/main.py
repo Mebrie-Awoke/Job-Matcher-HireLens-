@@ -16,7 +16,6 @@ app.add_middleware(
     allow_headers=['*'],
 )
 
-
 STOP_WORDS = {
     'the', 'a', 'an', 'and', 'or', 'for', 'with', 'without', 'to', 'of', 'in', 'on',
     'at', 'by', 'from', 'as', 'is', 'it', 'this', 'that', 'be', 'are', 'was', 'were',
