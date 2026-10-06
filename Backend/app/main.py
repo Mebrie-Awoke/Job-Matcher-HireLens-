@@ -1,6 +1,6 @@
 import re
 from collections import Counter
-from typing import List 
+from typing import List   
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
