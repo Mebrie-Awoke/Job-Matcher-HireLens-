@@ -1,7 +1,7 @@
 import { useState } from 'react' 
 import './App.css'
 
-const sampleResume = `
+const sampleResume = ` 
 Senior Product Analyst with 4 years of experience in data-driven decision making, dashboard design, SQL, and stakeholder communication.
 Strong background in Python, Excel, and business intelligence with experience improving conversion rates and reducing churn.
 Led A/B testing initiatives and built KPI dashboards for product and marketing teams.
