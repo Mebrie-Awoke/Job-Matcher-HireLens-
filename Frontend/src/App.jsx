@@ -1,5 +1,5 @@
 import { useState } from 'react' 
-import './App.css' 
+import './App.css'  
 
 const sampleResume = ` 
 Senior Product Analyst with 4 years of experience in data-driven decision making, dashboard design, SQL, and stakeholder communication.
